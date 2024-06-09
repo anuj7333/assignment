@@ -1,0 +1,27 @@
+### Lists:
+1. Write a Python program to sum all the items in a list.
+2. Create a function that takes a list of numbers as input and returns a new list with only the even numbers from the original list.
+3. Write a Python program to remove duplicates from a list.
+4. Implement a function to find the second largest number in a list.
+5. Write a Python program to shuffle and print a list.
+
+### Tuples:
+1. Write a Python program to reverse a tuple.
+2. Create a function that takes two tuples as input and returns a new tuple containing elements that are common in both tuples.
+3. Write a Python program to convert a tuple to a string.
+4. Implement a function to find the index of an element in a tuple.
+5. Create a program to concatenate two tuples.
+
+### Dictionaries:
+1. Write a Python script to sort (ascending and descending) a dictionary by its values.
+2. Create a function that takes a dictionary as input and returns the sum of all its values.
+3. Write a Python program to combine two dictionary adding values for common keys.
+4. Implement a function to check if a given key already exists in a dictionary.
+5. Create a program to iterate over dictionaries using loops and comprehensions, printing key-value pairs.
+
+### Sets:
+1. Write a Python program to create a set.
+2. Create a function that takes two sets as input and returns a new set containing elements that are common in both sets.
+3. Write a Python program to find the difference between two sets.
+4. Implement a function to check if a set is a subset of another set.
+5. Create a program to perform set operations like union, intersection, difference, and symmetric difference.
